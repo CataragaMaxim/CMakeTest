@@ -1,6 +1,0 @@
-# ninja log v6
-12	795	7508623511348252	CMakeFiles/HelloAppBinary.dir/main.cpp.obj	768eb28d6b8993f1
-765	894	7508624961976134	HelloAppBinary.exe	1ea4336a4770044e
-19	765	7508624954511102	CMakeFiles/HelloAppBinary.dir/src/dog.cpp.obj	a554aabad1c0b045
-1	236	7508631824129201	build.ninja	f59f5738b54d03a
-22	123	7508624954541037	CMakeFiles/HelloAppBinary.dir/src/operations.cpp.obj	de5a00e74326b98b
